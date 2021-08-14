@@ -30,7 +30,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    has_background: true
+    has_background: false
     background_color: blue
 seo:
   title: Who We Are
