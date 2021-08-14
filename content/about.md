@@ -23,7 +23,6 @@ sections:
     team:
       - data/team/miles-tone.json
       - data/team/dianne-ameter.json
-      - data/team/person-uo7m87e0k.json
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
